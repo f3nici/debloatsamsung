@@ -1,7 +1,5 @@
 # Debloat Samsung
 
-Trello: https://trello.com/b/YZOdDKBz/
-
 ## Contents
  - [Description](#description)
  - [Usage](#usage)
